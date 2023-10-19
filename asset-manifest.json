@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MeowMeowShop/static/css/main.e994f7c2.css",
-    "main.js": "/MeowMeowShop/static/js/main.76997bef.js",
+    "main.js": "/MeowMeowShop/static/js/main.05488882.js",
     "static/js/787.7a9649e8.chunk.js": "/MeowMeowShop/static/js/787.7a9649e8.chunk.js",
     "static/media/sid.jpeg": "/MeowMeowShop/static/media/sid.2899a1f4350dc34f3f72.jpeg",
     "static/media/rithwik.jpeg": "/MeowMeowShop/static/media/rithwik.f9a9761c5bbf90380407.jpeg",
@@ -17,11 +17,11 @@
     "static/media/cat-face.svg": "/MeowMeowShop/static/media/cat-face.42b9de4e3e95cd4fe38fbdf7e20f3d92.svg",
     "index.html": "/MeowMeowShop/index.html",
     "main.e994f7c2.css.map": "/MeowMeowShop/static/css/main.e994f7c2.css.map",
-    "main.76997bef.js.map": "/MeowMeowShop/static/js/main.76997bef.js.map",
+    "main.05488882.js.map": "/MeowMeowShop/static/js/main.05488882.js.map",
     "787.7a9649e8.chunk.js.map": "/MeowMeowShop/static/js/787.7a9649e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e994f7c2.css",
-    "static/js/main.76997bef.js"
+    "static/js/main.05488882.js"
   ]
 }
