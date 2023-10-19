@@ -1,37 +1,37 @@
 import React from 'react'
+import catlogo from '../assets/Images/Random/cat-face.svg'
+import '../css/NavbarCSS.css'
+import { Link } from 'react-router-dom'
 
 export default function Navbar() {
   return (
 <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
+    <a class="navbar-brand" href="#"><img src={catlogo} alt="meow logo" id='catlogo'/></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link active" href="#">Home
-            <span class="visually-hidden">(current)</span>
-          </a>
+      <li class="nav-item">
+          <Link class="nav-link" to="/">Home</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <Link class="nav-link" to="/products">Products</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Pricing</a>
+          <Link class="nav-link" to="/contactus">Contact us</Link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <Link class="nav-link" to="/about">About</Link>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+          <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">User</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="#">Action</a>
-            <a class="dropdown-item" href="#">Another action</a>
-            <a class="dropdown-item" href="#">Something else here</a>
+            <Link class="dropdown-item" to="/login">Login</Link>
+            <a class="dropdown-item" href="#">Sign up</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Separated link</a>
+            <a class="dropdown-item" href="#">Privacy policy</a>
           </div>
         </li>
       </ul>

@@ -1,0 +1,35 @@
+.contactDetails {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    margin: 50px;
+    margin-right: 500px;
+}
+
+.underline-contactUS{ 
+    width: 150px; 
+    height: 16px; 
+    background: rgb(157, 157, 157); 
+    border-radius: 9px;
+    margin-left: 250px; 
+    margin-bottom: 5rem;
+} 
+
+#phoneFigure {
+    margin-right: 50rem;
+    margin-top: 0;
+    padding-top: 0;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-top: 2rem;
+    margin-left: 4rem;
+}
+
+#detailsFR {
+    font-size: 2rem;
+}
+
+.contactUSALL {
+    display: grid;
+    grid-template-columns: 40rem 70rem;
+    grid-template-rows: 900px;
+}

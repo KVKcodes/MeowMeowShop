@@ -1,0 +1,43 @@
+#aboutUS {
+    font-weight: 700;
+    font-size: 6rem;
+    margin-bottom: 0;
+}
+
+.teamFigure {
+    margin: 3rem;
+}
+
+.teamImg {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.flexerAbout {
+    display: flex;
+    gap: 2rem;
+    justify-content:center;
+}
+
+.teamName {
+    margin: 1rem;
+    font-size: 2rem;
+    color: black;
+}
+
+.teamDetails {  
+    font-size: 1rem;
+}
+
+.underline{ 
+    width: 130px; 
+    height: 16px; 
+    background: rgb(157, 157, 157); 
+    border-radius: 9px; 
+    margin-left: 600px;
+    margin-top: 0;
+    margin-bottom: 3rem;
+} 
+
