@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MeowMeowShop/static/css/main.e994f7c2.css",
+    "main.js": "/MeowMeowShop/static/js/main.76997bef.js",
+    "static/js/787.7a9649e8.chunk.js": "/MeowMeowShop/static/js/787.7a9649e8.chunk.js",
+    "static/media/sid.jpeg": "/MeowMeowShop/static/media/sid.2899a1f4350dc34f3f72.jpeg",
+    "static/media/rithwik.jpeg": "/MeowMeowShop/static/media/rithwik.f9a9761c5bbf90380407.jpeg",
+    "static/media/jojoxgucci.jpg": "/MeowMeowShop/static/media/jojoxgucci.72a569c656ff14e8ac3e.jpg",
+    "static/media/jojo-shirt.jpg": "/MeowMeowShop/static/media/jojo-shirt.12ecb9edb93ee76269e9.jpg",
+    "static/media/pewdsMerch.jpeg": "/MeowMeowShop/static/media/pewdsMerch.67965d07a9b9c3aa3b9b.jpeg",
+    "static/media/srikar.jpeg": "/MeowMeowShop/static/media/srikar.2d095e05ab2907fd179c.jpeg",
+    "static/media/white-shirt.webp": "/MeowMeowShop/static/media/white-shirt.f1089bc106173cd6bb8f.webp",
+    "static/media/designer-shirt.webp": "/MeowMeowShop/static/media/designer-shirt.437ac5f76e80bdfd46f0.webp",
+    "static/media/gucci-alia.webp": "/MeowMeowShop/static/media/gucci-alia.5ea9da9bc13cb027f243.webp",
+    "static/media/black-shirt.webp": "/MeowMeowShop/static/media/black-shirt.32e90ca4ee2af9a8c899.webp",
+    "static/media/phone.png": "/MeowMeowShop/static/media/phone.facb82d6fff343fc7817.png",
+    "static/media/cat-face.svg": "/MeowMeowShop/static/media/cat-face.42b9de4e3e95cd4fe38fbdf7e20f3d92.svg",
+    "index.html": "/MeowMeowShop/index.html",
+    "main.e994f7c2.css.map": "/MeowMeowShop/static/css/main.e994f7c2.css.map",
+    "main.76997bef.js.map": "/MeowMeowShop/static/js/main.76997bef.js.map",
+    "787.7a9649e8.chunk.js.map": "/MeowMeowShop/static/js/787.7a9649e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e994f7c2.css",
+    "static/js/main.76997bef.js"
+  ]
+}
